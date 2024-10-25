@@ -333,7 +333,7 @@ const metricsSchema = new mongoose.Schema({
 ## Author
 
 **Ashish Ranjan**  
-[LinkedIn Profile]()  
+[LinkedIn Profile](https://www.linkedin.com/in/ashish-ranjan-732b23224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 Email: ashishranjan9904@gmail.com  
 Phone: 7870533708
 ```
